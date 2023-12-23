@@ -9,7 +9,7 @@
 
 using libs:
 
-requests
-bs4
-os
+requests,
+bs4,
+os,
 
